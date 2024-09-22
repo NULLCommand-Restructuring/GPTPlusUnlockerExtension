@@ -1,0 +1,34 @@
+{
+    "manifest_version": 3,
+    "name": "GPT Plus Unlocker",
+    "version": "0.1.0",
+    "description": "Helps you unlock and temporarily experience the GPT Plus service of ChatGPT completely free of charge.",
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "activeTab",
+        "scripting",
+        "tabs",
+        "cookies"
+    ],
+    "web_accessible_resources": [
+        {
+            "resources": [
+                "crypto-js.min.js"
+            ],
+            "matches": [
+                "<all_urls>"
+            ]
+        }
+    ],
+    "host_permissions": [
+        "<all_urls>"
+    ],
+    "icons": {
+        "128": "logo_extension.png"
+    },
+    "background": {
+        "service_worker": "background.js"
+    }
+}
