@@ -1,5 +1,5 @@
 # GPT Plus Unlocker
-![GPT Plus Unlocker](https://nullcommand-restructuring.github.io/NULLCommand-Restructuring/GPTPlusUnlockerExtension-DemoResources/gpt-plus-unlocker.png)
+![GPT Plus Unlocker](https://nullcommand1.github.io/NULLCommand1/GPTPlusUnlockerExtension-DemoResources/gpt-plus-unlocker.png)
 
 **GPT Plus Unlocker** is a Chrome browser extension that allows users to temporarily experience the **GPT Plus service of ChatGPT** for free. This extension works on **Chrome**, using cloud-stored data to unlock the service. Simply enter your **ChatGPT account email address**, click the **"UNLOCK"** button, and you can immediately experience the **premium features of GPT Plus** for a limited time.
 
