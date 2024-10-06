@@ -116,4 +116,4 @@ Thank you for your contributions! Together, we can make **GPT Plus Unlocker** ev
 
 ## Contact
 
-If you have any questions or feedback, please contact via email: nguyenhuutai.cv@gmail.com 📧.
+If you have any questions or feedback, please contact via email: nullcommand1@gmail.com 📧.
